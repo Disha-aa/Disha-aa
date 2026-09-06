@@ -1,6 +1,16 @@
-# Hello!! I'm Disha
+# Junior Backend Engineer
 
-I'm just starting to learn Python, and I'll be posting all my projects here
+With a focus on Python, SQL, and relational database fundamentals.
+
+Currently studying Software Engineering at KhNURE.
+
+# Tech Stack & Tools:
+- Languages: Python, SQL
+- Databases: PostgreSQL
+- Tools & OS: Git, Linux (WSL2 / Ubuntu)
+
+# Focus:
+Deepening knowledge in SQL, database design, and query optimization.
 
 ## My Contacts
 - **Discord:** d_ishaa
